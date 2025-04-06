@@ -1,0 +1,11 @@
+*.DS_Store
+/datalab_tasks/task5/dataset_for_unet_patched
+/datalab_tasks/task5/Y2B_23
+/datalab_tasks/task5/Y2B_24
+/datalab_tasks/task5/v6_with_Y2B_24/dataset_for_unet_patched
+/datalab_tasks/task5/v6_with_Y2B_24/data_2023
+/datalab_tasks/task5/v6_with_Y2B_24/data_2024
+/datalab_tasks/task5/v6_with_Y2B_24/combined_23_24
+/datalab_tasks/task5/v15/dataset_for_unet_patched
+/datalab_tasks/task5/v12/combined_23_24
+/datalab_tasks/task5/v*/dataset*
